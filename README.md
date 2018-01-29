@@ -4,7 +4,7 @@
 
 Automatic Gifs in Python with Mask R-CNN
 
-This accompanies a blog post, explaining how to use [Mask R-CNN](https://github.com/matterport/Mask_RCNN) for creating animated gifs automatically.
+This accompanies a [blog post](https://www.makeartwithpython.com/blog/automatic-gifs-with-deep-learning/), explaining how to use [Mask R-CNN](https://github.com/matterport/Mask_RCNN) for creating animated gifs automatically.
 
 ## How to Use 
 
